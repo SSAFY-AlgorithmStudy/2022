@@ -11,7 +11,7 @@
 - [백준_6064_카잉달력](https://www.acmicpc.net/problem/6064) 
 
 ### 0222 - 2회차
-- [백준_1789 종이의개수](https://www.acmicpc.net/problem/1789)
+- [백준_1780 종이의개수](https://www.acmicpc.net/problem/1780)
 - [백준_11047 동전 ㅇ](https://www.acmicpc.net/problem/11047)
 - [백준_11403 경로 찾기](https://www.acmicpc.net/problem/11403)
 - [백준_1107 리모컨](https://www.acmicpc.net/problem/1107)
